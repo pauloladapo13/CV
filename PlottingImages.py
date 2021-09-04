@@ -29,3 +29,8 @@ axis('off')
 # plot(x, y, 'ks:') black dotted line with square-makers
 
 show()
+
+# 'b' blue, 'g' green, ...(colors)
+# '-' solid, '--' dashed, ':', dotted
+
+#  '.' point, 'o' circle, 's' square, '*' star, '+' plus, 'x' x
